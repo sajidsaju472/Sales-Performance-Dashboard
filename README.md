@@ -64,7 +64,8 @@ The data was cleaned and transformed in Power BI using Power Query before visual
 
 (Add your screenshot file in the repository and name it dashboard_preview.png)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](<img width="1414" height="740" alt="Dashboard_Preview png" src="https://github.com/user-attachments/assets/ed464a99-cbb1-47fe-a1db-1b36f82e3aaa" />
+)
 💡 Key Insights
 
 Identified top-performing regions contributing to revenue
